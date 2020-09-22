@@ -1,3 +1,26 @@
+## INFO
+- https://app.quicktype.io/ -> (genera modelo)
+- https://animate.style/
+- https://getbootstrap.com/
+- https://swimlane.github.io/ngx-charts/#/ngx-charts/bar-horizontal
+- https://firebase.google.com/
+- https://console.cloud.google.com/
+- https://sweetalert2.github.io/
+- https://github.com/angular/angularfire
+- https://firestore-grafica-634b7.web.app
+
+## INFO API
+- https://us-central1-firestore-grafica-634b7.cloudfunctions.net/api
+
+## COMANDOS
+- npm install @angular/cdk --save
+- npm install @swimlane/ngx-charts --save
+
+## GOTY BACK
+- npm install express cors
+- npm install @types/express --save-dev
+- npm install @types/cors --save-dev
+
 # Goty
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
